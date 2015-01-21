@@ -1,0 +1,25 @@
+{
+  "name": "common-styles",
+  "version": "0.0.1",
+  "authors": [
+    "Krikor Krikorian <TodoConK> <krikorian84@gmail.com>"
+  ],
+  "description": "Common styles for css",
+  "main": "common.less",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "common",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/todoconk/common-styles",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
